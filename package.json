@@ -1,0 +1,19 @@
+{
+  "name": "pt_visualizacion_huella_digital",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidgzu/PT_visualizacion_huella_digital.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidgzu/PT_visualizacion_huella_digital/issues"
+  },
+  "homepage": "https://github.com/davidgzu/PT_visualizacion_huella_digital#readme"
+}
